@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b1ovosopcaxdx"
+path="res://.godot/imported/10488_basketball_goal_L3.obj-9bc546a0d663ed0bcb1944ca1121d370.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10488_basketball_goal_L3.obj-9bc546a0d663ed0bcb1944ca1121d370.mesh"]
+
+source_file="res://Models/basketball goal/10488_basketball_goal_L3.obj"
+dest_files=["res://.godot/imported/10488_basketball_goal_L3.obj-9bc546a0d663ed0bcb1944ca1121d370.mesh", "res://.godot/imported/10488_basketball_goal_L3.obj-9bc546a0d663ed0bcb1944ca1121d370.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

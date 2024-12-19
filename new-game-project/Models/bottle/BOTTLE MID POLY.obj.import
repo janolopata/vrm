@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyps3wquqkrbj"
+path="res://.godot/imported/BOTTLE MID POLY.obj-847cbedc8e9b7e3624d885d600e17ca6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/BOTTLE MID POLY.obj-847cbedc8e9b7e3624d885d600e17ca6.mesh"]
+
+source_file="res://Models/bottle/BOTTLE MID POLY.obj"
+dest_files=["res://.godot/imported/BOTTLE MID POLY.obj-847cbedc8e9b7e3624d885d600e17ca6.mesh", "res://.godot/imported/BOTTLE MID POLY.obj-847cbedc8e9b7e3624d885d600e17ca6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(0.001, 0.001, 0.001)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

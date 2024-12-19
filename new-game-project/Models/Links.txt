@@ -8,3 +8,10 @@ fence - https://free3d.com/3d-model/fence-86772.html
 bench - https://free3d.com/3d-model/concretebench--425396.html
 flower 1 - https://www.cgtrader.com/free-3d-models/plant/flower/coreopsis-flower
 tree 1 - https://www.cgtrader.com/free-3d-models/plant/bush/realistic-tree-ae47453f-8ca8-43e2-8c1d-4f05dc800a85
+tree 2 - https://free3d.com/3d-model/tree-72460.html
+trashcan - https://free3d.com/3d-model/trash-can-p-kovas-526872.html
+bottles - https://free3d.com/3d-model/wine-bottle-711733.html
+can - https://free3d.com/3d-model/coca-cola-29303.html
+lamp - https://free3d.com/3d-model/street-lamp-419100.html
+statue - https://free3d.com/3d-model/statue-v1--541832.html
+rock2 - https://free3d.com/3d-model/rock-86533.html

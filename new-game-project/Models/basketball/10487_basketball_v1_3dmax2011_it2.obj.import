@@ -16,7 +16,7 @@ dest_files=["res://.godot/imported/10487_basketball_v1_3dmax2011_it2.obj-fad193f
 [params]
 
 generate_tangents=true
-scale_mesh=Vector3(1, 1, 1)
+scale_mesh=Vector3(0.003, 0.003, 0.003)
 offset_mesh=Vector3(0, 0, 0)
 optimize_mesh=true
 force_disable_mesh_compression=false

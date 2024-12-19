@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c41qu85xs4cgv"
+path="res://.godot/imported/Street Lamp.obj-897f2f5ec07bca8ba1c53619ef2871ad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Street Lamp.obj-897f2f5ec07bca8ba1c53619ef2871ad.mesh"]
+
+source_file="res://Models/lamp/Street Lamp.obj"
+dest_files=["res://.godot/imported/Street Lamp.obj-897f2f5ec07bca8ba1c53619ef2871ad.mesh", "res://.godot/imported/Street Lamp.obj-897f2f5ec07bca8ba1c53619ef2871ad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(0.002, 0.002, 0.002)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -2,14 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dspcjpdkj80lj"
+uid="uid://bf2xn2mwwrtid"
 path.s3tc="res://.godot/imported/roadglb_Steel_N.jpg-9d865f8d338f1503e728bd83cf6f9830.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
-}
-generator_parameters={
-"md5": "173560c5a2c8a526b94465bb89e01e5f"
 }
 
 [deps]

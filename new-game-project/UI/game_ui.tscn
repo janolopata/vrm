@@ -1,0 +1,66 @@
+[gd_scene format=3 uid="uid://d35s6phjn447x"]
+
+[node name="GameUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="L_interact" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(20, 11.5)
+text = "Interact"
+horizontal_alignment = 1
+
+[node name="Crosshair" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -3.0
+offset_top = -3.0
+offset_right = 3.0
+offset_bottom = 3.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(3, 3)
+
+[node name="L_basketball" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_left = 21.0
+offset_top = 16.0
+offset_right = 238.0
+offset_bottom = 56.0
+bbcode_enabled = true
+text = "Score a point in basketball"
+
+[node name="L_trash" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_left = 21.0
+offset_top = 42.0
+offset_right = 141.0
+offset_bottom = 82.0
+bbcode_enabled = true
+text = "Pickup trash"
+
+[node name="L_statue" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_left = 21.0
+offset_top = 68.0
+offset_right = 148.0
+offset_bottom = 97.0
+bbcode_enabled = true
+text = "Destroy statue"

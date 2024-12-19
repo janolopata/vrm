@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccd8mmawn5k0k"
+path="res://.godot/imported/coca-cola.obj-10157beb8172ac3afac61345fde6f4df.mesh"
+
+[deps]
+
+files=["res://.godot/imported/coca-cola.obj-10157beb8172ac3afac61345fde6f4df.mesh"]
+
+source_file="res://Models/can/coca-cola.obj"
+dest_files=["res://.godot/imported/coca-cola.obj-10157beb8172ac3afac61345fde6f4df.mesh", "res://.godot/imported/coca-cola.obj-10157beb8172ac3afac61345fde6f4df.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(0.02, 0.02, 0.02)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
